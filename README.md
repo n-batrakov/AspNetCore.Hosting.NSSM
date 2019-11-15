@@ -33,9 +33,9 @@ No extra thouht was put into the choise of service manager.
 
 Use `cmd.exe` or `powershell` with administrator privileges.
 
-Service is installed into `C:\\services\api\`.
+Service is named `api` and installed into `C:\\services\api\`.
 
-To test service open `http://localhost:5000/`.
+To test service, open `http://localhost:5000/`.
 
 ### Build
 
